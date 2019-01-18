@@ -10,12 +10,13 @@ Welcome to Test's documentation!
    :maxdepth: 2
    :caption: Contents:
  
+   presentation
    bom
    assemblage
    LICENCE
  
 
-.. index:: bom,assemblage,LICENCE
+.. index:: presentation,bom,assemblage,LICENCE
 
 
 Indices and tables
