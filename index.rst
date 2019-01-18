@@ -12,11 +12,12 @@ Welcome to Test's documentation!
  
    presentation
    bom
+   outils
    assemblage
    LICENCE
  
 
-.. index:: presentation,bom,assemblage,LICENCE
+.. index:: presentation,bom,outils,assemblage,LICENCE
 
 
 Indices and tables
